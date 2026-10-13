@@ -20,5 +20,9 @@ mvn clean test
 Tests run automatically on every push using GitHub Actions (headless Chrome).
 
 ## Screenshots
-- Add the TestNG report screenshot here.
-- Add the green GitHub Actions run screenshot here.
+
+### TestNG Test Execution Report
+![TestNG Report](screenshots/testng-report.png)
+
+### GitHub Actions CI Run
+![GitHub Actions Run](screenshots/github-actions.png)
